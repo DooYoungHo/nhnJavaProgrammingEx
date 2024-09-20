@@ -5,3 +5,8 @@
 - 예외처리 학습 (try - catch / throw)
 - 형변환 학습
 - 미로 탐색 과제(DFS 알고리즘 사용)
+
+## DAY02
+- recursive(재귀) 학습
+- Bubble sort 학습
+- primeFactorization 학습 
