@@ -10,3 +10,8 @@
 - recursive(재귀) 학습
 - Bubble sort 학습
 - primeFactorization 학습 
+
+## DAY03
+- 전략패턴 기본 학습
+- 배열[array] 학습
+- Arrays - 배열 관련 과제
