@@ -28,3 +28,10 @@
 - singleton pattern 학습
 - 재귀함수를 활용한 Gcd 메소드 작성
 - FileInputStream을 이용한 외부 파일 읽기 학습
+
+## DAY06
+- Iterator 패턴 학습
+- Comparable Interface 구현 및 적용
+- 배열을 이용한 Queue 구현
+- 어노테이션 활용
+- Poker Game 만들기(과제)
