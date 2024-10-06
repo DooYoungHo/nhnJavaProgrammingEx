@@ -35,3 +35,13 @@
 - 배열을 이용한 Queue 구현
 - 어노테이션 활용
 - Poker Game 만들기(과제)
+
+## DAY07
+- 제네릭 학습
+- 추상화 클래스 학습 및 예제 적용
+
+## DAY08
+- FunctionalInterface 학습 및 예제 적용
+- 디자인 패턴 싱글톤 패톤 간단 예제 실습
+- Interface default 메서드 학습
+- TikTakToe Game 만들기 (과제)
